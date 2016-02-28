@@ -5,10 +5,14 @@
 .header-bar {
     border-bottom: 2px solid #FFC702;
     min-height: 50px;
+    position: relative;
 }
 
 .header-logo {
     width: 300px;
+    position: absolute;
+    top: 50%;
+    transform:translateY(-50%);
 }
 
 .container{
