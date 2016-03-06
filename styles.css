@@ -18,6 +18,7 @@
     max-width: 1024px;
     min-height: 50px;
     font-family: 'Droid-Sans', sans-serif;
+    font-size: 15px;
 }
 
 .body-heading {
@@ -30,6 +31,7 @@
 .row h4 {
     color: #592A8A;
     font-family: 'Droid-Serif', serif;
+    font-size: 20px;
 }
 
 .caption-text {
@@ -71,6 +73,7 @@ footer {
 
 .footer-text {
     text-align: center;
+    margin-top: 15px;
 }
 
 .footer-links a{
@@ -86,7 +89,7 @@ footer {
 
 .footer-links {
     display:inline-block;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 @media screen and (max-width: 768px) {
@@ -96,5 +99,12 @@ footer {
     }
     .caption-text {
         margin-top: 15px;
+    }
+
+    .main-body h2 {
+        font-size: 28px;
+    }
+    .main-body h3 {
+        font-size: 22px;
     }
 }
