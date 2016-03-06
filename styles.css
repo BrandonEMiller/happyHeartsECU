@@ -4,7 +4,7 @@
     color: #FFC702;
 }
 
-.container{
+.container {
     max-width: 1024px;
     min-height: 50px;
     font-family: 'Droid-Sans', sans-serif;
@@ -80,7 +80,7 @@ footer {
     font-weight: lighter;
 }
 
-.footer-links a{
+.footer-links a {
     color: #FFC702;
     padding: 0 10px;
     border-right: 1px solid #FFC702;
@@ -92,7 +92,7 @@ footer {
 }
 
 .footer-links {
-    display:inline-block;
+    display: inline-block;
     margin-bottom: 15px;
 }
 
@@ -102,6 +102,7 @@ footer {
         margin-top: 10px;
         width: 280px;
     }
+
     .caption-text {
         margin-top: 15px;
     }
@@ -109,6 +110,7 @@ footer {
     .main-body h2 {
         font-size: 28px;
     }
+
     .main-body h3 {
         font-size: 22px;
     }
